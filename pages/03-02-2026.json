@@ -1,8 +1,5 @@
 {
   "name": "03.02.2026",
-  "description": "",
-  "content": "",
-  "images": {
-    "img0": ""
-  }
+  "description": "Test-Description",
+  "content": "Test-Content  _  $img0$"
 }
