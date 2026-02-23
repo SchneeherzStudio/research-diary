@@ -1,5 +1,5 @@
 {
   "name": "03.02.2026",
-  "description": "Test-Description",
-  "content": "Heute haben wir das gemacht $img0$ aber warum sollten wir? $img1$"
+  "description": "Einführung ER-Modell",
+  "content": "Angefangen haben wir mit einer Excel-Tabelle, in welcher wir gegebene Daten (Firmen und Ansprechpartner) hinzufügen, entfernen und aktualisieren sollten. $img0$ Dadurch haben wir festgestellt, dass diese Variante der Datenspeicherung sehr ineffizient und sogar unpraktisch ist, da eine Firma nicht ohne Ansprechpartner existieren konnte und wenn ein Ansprechpartner gelöscht wurde, die gesamte Firma entfernt wurde. Darüber kamen wir auf die Idee, Firmen und Ansprechpartner voneinander zu trennen, um diese aktualisieren zu können, ohne dies für jeden Ansprechpartner einzeln zu machen oder auf Probleme zu stoßen. $img1$"
 }
