@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Forschungstagebuch",
+    "slug": "research-diary",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/images/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#E6F4FE"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.snowy.forschungstagebuch"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/icon.png",
+        "backgroundColor": "#E6F4FE"
+      },
+      "package": "com.snowy.forschungstagebuch"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "aa5084d0-01c4-4db9-90dd-a5b529a309e0"
+      }
+    }
+  }
+}
