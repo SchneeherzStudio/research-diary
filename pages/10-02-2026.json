@@ -1,4 +1,4 @@
-{}{
+{
   "name": "10.02.2026",
   "description": "ER-Modell und Abhängigkeiten",
   "content": "m = muss \n n = kann \n 1 = maximal 1 \n\n Es gibt abhängigkeiten von 1 zu n, n zu m, 1 zu m und weitere."
