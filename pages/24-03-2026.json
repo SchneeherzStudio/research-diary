@@ -1,5 +1,5 @@
 {
   "name": "24.03.2026",
   "description": "SQL",
-  "content": "- SQL-Tutorial \n -> Lektion 1 \n -> Lektion 2 \n -> Lektion 3"
+  "content": "Heute haben wir mit SQL angefangen. SQL steht für Structured Query Language und ist eine Sprache, die verwendet wird, um Daten in relationalen Datenbanken zu verwalten und zu manipulieren. Es ist eine sehr wichtige Sprache, da sie die Grundlage für die meisten relationalen Datenbanken bildet. \nDazu haben wir die Website https://luo-darmstadt.de/sqltutorial/ erhalten, in welcher wir Aufgaben zu SQL bearbeiten sollten. \nVon diesen Aufgaben habe ich heute die ersten drei Lektionen bearbeitet. In den ersten beiden Lektionen ging es um die cia-Datenbank, in welcher alle Informationen rund um Länder gespeichert waren und über SQL befehle abgefragt werden sollten. $img0$ Und in der dritten Lektion ging es um die Nordwind-Datenbank, zu welcher wir spezifischere Anfragen abrufen sollten mit besonderen Modifikationen. $img1$ Mein größtes Problem mit diesen Aufgaben war, dass ich eine leicht andere Version von SQL gewöhnt war und ich deswegen mich bei manchen Befehlen vertan habe."
 }
