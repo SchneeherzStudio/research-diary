@@ -1,5 +1,5 @@
 {
-  "name": "14.04.2026",
+  "name": "21.04.2026",
   "description": "SQL",
-  "content": "- SQL-Tutorial \n Lektion 6 \n- Forschungstagebuch \n -> finalisieren vor Abgabe"
+  "content": "Heute haben wir die letzte Lektion der SQL-Übungen abgeschlossen. In der Nordwind-Datenbank sollten wir hierbei alles bisherige gemischt anwenden, um verschiedene Abfragen zu formulieren. Es ging hierbei um die Kombination von SELECT-Abfragen mit den verschiedenen Möglichkeiten, Datensätze zu verändern (DELETE, UPDATE, INSERT). \n\nDie Übungen waren teilweise etwas knifflig, aber ich habe alles verstanden und auch richtig lösen können. Es hat mir auch Spaß gemacht, die verschiedenen Möglichkeiten zu entdecken. \n\nSchlussendlich habe ich das Forschungstagebuch in dieser Version abgeschlossen und es für die Abgabe vorbereitet. Das Forschungstagebuch ist eine Mobile App, geschrieben in TSX, die alle Einträge von meiner Github Repository abruft und anzeigt. \nUm Bilder anzuzeigen wird dann an der Stelle des Bildes, dieses im Text vermerkt und von der App an der Stelle von Github eingefügt. $img0$ Das Forschungstagebuch dieses Halbjahr hat mir großen Spaß gemacht, da ich etwas vollständig neues ausprobiert habe und ich sehe mit zuversicht in die Zukunft, nächstes Halbjahr eine Desktop-Applikation zu schreiben. Die Grundlagen habe ich ja bereits mit dieser App gelegt. \n\nAuf ein gutes Resthalbjahr und ein noch besseres nächstes Halbjahr!"
 }

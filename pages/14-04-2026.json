@@ -1,5 +1,5 @@
 {
   "name": "14.04.2026",
   "description": "SQL",
-  "content": "- SQL-Tutorial \n -> Lektion 4 \n -> Lektion 5 \n -> Lektion 6"
+  "content": "Heute haben wir mit den nächsten drei Lektionen der SQL-Übungen weitergemacht. Hierbei ging es bei den Lektionen 4 und 5 erneut um die cia-Datenbank und bei der Lektion Nummer 6 um eine Schul-Datenbank. \nWährend es bei den ersten beiden Lektionen immernoch um SELECT-Abfragen ging (in dem Fall Geschachtelte SELECT-Anweisungen), ging es bei der Lektion 6 um das Verändern des Datensatzes (DELETE, UPDATE, INSERT). \n\nDie Übungen waren teilweise etwas knifflig, aber ich habe alles verstanden und auch richtig lösen können. Es hat mir auch Spaß gemacht, die verschiedenen Möglichkeiten zu entdecken."
 }
